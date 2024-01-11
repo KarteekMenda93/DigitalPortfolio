@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DigitalPortfolio/static/css/main.596b17ff.css",
+    "main.js": "/DigitalPortfolio/static/js/main.b71abfb2.js",
+    "static/css/64.bba8fa55.chunk.css": "/DigitalPortfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.493e2832.chunk.js": "/DigitalPortfolio/static/js/64.493e2832.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/DigitalPortfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.36b32ac9.chunk.js": "/DigitalPortfolio/static/js/769.36b32ac9.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/DigitalPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/DigitalPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Consistent Performer Award_2.jpg": "/DigitalPortfolio/static/media/Consistent Performer Award_2.188f8911a108413bc5b2.jpg",
+    "static/media/manOnTable.svg": "/DigitalPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/DigitalPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/DigitalPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/3i.jpg": "/DigitalPortfolio/static/media/3i.02d846526d0d4cc8bdd3.jpg",
+    "static/media/ASU-logo.png": "/DigitalPortfolio/static/media/ASU-logo.01bdd4c61688c29feeaf.png",
+    "static/media/qbe.jpg": "/DigitalPortfolio/static/media/qbe.9ba30902ecc170e385ef.jpg",
+    "static/media/skill.svg": "/DigitalPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/DigitalPortfolio/index.html",
+    "static/media/talksCardBack.svg": "/DigitalPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.596b17ff.css.map": "/DigitalPortfolio/static/css/main.596b17ff.css.map",
+    "main.b71abfb2.js.map": "/DigitalPortfolio/static/js/main.b71abfb2.js.map",
+    "64.bba8fa55.chunk.css.map": "/DigitalPortfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.493e2832.chunk.js.map": "/DigitalPortfolio/static/js/64.493e2832.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/DigitalPortfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.36b32ac9.chunk.js.map": "/DigitalPortfolio/static/js/769.36b32ac9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596b17ff.css",
+    "static/js/main.b71abfb2.js"
+  ]
+}
